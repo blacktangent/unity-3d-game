@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 586d58d05379419a8006364797db5fc8
+labels:
+- gvh
+- gvh_rename_to_disable
+- gvh_version-1.2.183
+- gvhp_exportpath-ExternalDependencyManager/Editor/1.2.183/Google.IOSResolver.pdb
+- gvhp_targets-editor
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 131674
+  packageName: Digits NFC Toolkit
+  packageVersion: 1.6.4
+  assetPath: Assets/ExternalDependencyManager/Editor/1.2.183/Google.IOSResolver.pdb
+  uploadId: 702333
