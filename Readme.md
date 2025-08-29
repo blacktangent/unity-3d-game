@@ -38,7 +38,8 @@ Unity 2021 LTS を使用した 3D 対戦アクションデモです。
 - 3Dキャラクターのアニメーター設定  
 - メインメニューやキャラクター選択の UI 画面  
 - 3Dキャラクターのダメージ計算やカメラ操作  
-- CPU の思考パターン（AI挙動）  
+- CPU の思考パターン（AI挙動)
+https://github.com/blacktangent/unity-3d-game/tree/main/Assets/Script
 
 ## 注意点
 - 採用担当者向けのデモとして公開しています  
