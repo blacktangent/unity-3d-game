@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//リング外に出た時の持続ダメージ
 public class OutOfRingZone : MonoBehaviour
 {
     public float damagePerSecond = 5f;

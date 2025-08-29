@@ -7,3 +7,6 @@
 [Mm]emoryCaptures/
 UserSettings/
 Assets/DigitsNFCToolkit
+.vs/
+*.csproj
+*.zip
